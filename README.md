@@ -28,3 +28,8 @@ For each position, generates:
 - **Markdown file**: Board image with FEN metadata (pieces and side-to-move only)
 
 Files are saved to `output/` with FEN-based filenames (slashes and spaces converted to underscores).
+
+See examples here:
+
+- [Starting position](output/rnbqkbnr_pppppppp_8_8_8_8_PPPPPPPP_RNBQKBNR_w.md)
+- [1. e4 d5](output/rnbqkbnr_ppp1pppp_8_3p4_4P3_8_PPPP1PPP_RNBQKBNR_w.md)
